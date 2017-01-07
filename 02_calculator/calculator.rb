@@ -11,4 +11,3 @@ def sum(array_of_numbers)
 	end
 	return total
 end
-
